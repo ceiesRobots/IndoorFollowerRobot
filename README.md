@@ -5,12 +5,12 @@ This project was developed as a senior design project by Electrical and Computer
 ![Alt text](followercart_inAction.png)
 
 
-## The Destination
+## Introduction
 _____  
 
-The product being designed is a follower robot, capable of transporting big weights in closed environments like warehouses or even office environment.  
-The robot will function in semi-autonomous mode, which requires an operator to be close by, and it will follow the operator (the user).
-It can also be controlled via phone app, or a pushing mode by showing an Acuro marker to the camera, and the robot will start moving in
+This product is a follower robot, capable of transporting weights up to 100 Kg in closed environments like warehouses or even office environment.  
+The robot functions in semi-autonomous mode, which requires an operator to be close by, and it will follow the operator (the user).
+It can also be controlled via phone app, or in pushing mode by showing an Acuro marker to the camera, and the robot will start moving in
 its direction.
 
 ## Algorithm
