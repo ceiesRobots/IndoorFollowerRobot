@@ -72,6 +72,6 @@ The app is provided as AutoCart.slx file. This needs to be build using Simulink.
 from the MATLAB documentation. 
 
 ## The Team
-Al Fahd Felemban: 14720aa@gmail.com 
-Ahmed Batwa: ahmed.i.patwa@gmail.com
+Al Fahd Felemban: 14720aa@gmail.com  
+Ahmed Batwa: ahmed.i.patwa@gmail.com  
 Amro Batwa: eng.batwa@gmail.com
