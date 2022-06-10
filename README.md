@@ -2,6 +2,7 @@
 _____  
 
 This project is a senior design project carried by Team-06, Electrical and Computer engineering students at KAU, Fall 2021.
+![Alt text](followercart_finalproduct.png?raw=true "Follower Cart")
 
 ## The Destination
 _____  
