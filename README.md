@@ -75,3 +75,7 @@ from the MATLAB documentation.
 Al Fahd Felemban: 14720aa@gmail.com  
 Ahmed Batwa: ahmed.i.patwa@gmail.com  
 Amro Batwa: eng.batwa@gmail.com
+
+## Acknowledgement
+The project was finished with technical and logistics help from Robotics Lab at Center Of Excellence in Intelligent Engineering Systems, KAU.    
+
