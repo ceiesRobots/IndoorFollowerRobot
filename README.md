@@ -2,8 +2,7 @@
 _____  
 
 This project was developed as a senior design project by Electrical and Computer Engineering students at KAU, Jeddah, KSA in Fall 2021.  
-![Alt text](followercart_finalproduct.png?raw=true "Follower Cart")
-![Alt text](followercart_inAction.png?raw=true "Follower Cart")
+![Alt text](followercart_inAction.png)
 
 
 ## The Destination
