@@ -22,7 +22,7 @@ simply, the camera will receive continues frames, and will send them to the ArUc
 and other calculations are done to determine the position and orientation of the user. This information is then interpreted 
 as [speed] and [steer] and will be sent to the motors controlling the wheels of the robot. 
 
-
+![Alt text](followercart_BlockDiagram.png)
 ## instructions
 These operation instructions are to be used by the user of AutoCart:
 <ol>
